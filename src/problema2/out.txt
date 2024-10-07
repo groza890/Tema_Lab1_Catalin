@@ -1,0 +1,4 @@
+suma:27
+min:2
+max:8
+media:4.5
